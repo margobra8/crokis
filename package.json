@@ -8,9 +8,7 @@
   },
   "author": "Marcos Gómez (margobra8)",
   "license": "MIT",
-  "repository": {
-    "https://github.com/margobra8/crokis"
-  },
+  "repository": "https://github.com/margobra8/crokis",
   "dependencies" : {
       "express": "4.x",
       "socket.io": "*"
